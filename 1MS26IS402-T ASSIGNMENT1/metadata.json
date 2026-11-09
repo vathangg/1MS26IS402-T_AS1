@@ -1,0 +1,6 @@
+{
+  "name": "CS Research Agent & Architecture Visualizer",
+  "description": "Advanced academic paper analyzer extracting core concepts, Mermaid.js architectural flowcharts, and 3rd-year student resume project opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
